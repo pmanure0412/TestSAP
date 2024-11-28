@@ -10,7 +10,7 @@ sap.ui.define([
             onInit: function () {
             },
             onPress: function () {
-                MessageBox.alert("You have been alerted!");
+                MessageBox.alert("This is a Test");
             }
         });
     });
